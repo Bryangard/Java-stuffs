@@ -27,3 +27,16 @@ class libray{
 }
 
 write a java program that ask the user to enter two integers, obtains the numbers from the user, then prints the larger number followed by the words "is larger" if the numbers are equal, print the message " the numbers are equal.
+
+write a java program that uses an array to calculate theaverage of a series of fifty numbers
+
+write a program in java to display the cube of the number up to a give integers
+
+test data 
+
+input number of terms 4
+
+number is  : 1 and cube of 1 is : 1
+number is : 2 and cube of 2 is : 8
+number is : 3 and cube of 3 is :27
+number is :4 and cube of 4 is : 64
