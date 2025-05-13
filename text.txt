@@ -1,0 +1,29 @@
+implement the following to manage movie rentals at a store. Your class should include:
+- title(String)
+- director(String)
+- rating(String)
+- isRented(boolean)
+- rentMovie()
+- returnMovie()
+- displayInfo()
+
+class libray{
+    static void main (Strings [] args) {
+        String title;
+        String author:
+        String genre;
+        String isBorrowed;
+
+        public void borrowBook () {
+
+        }
+        public void returnBook() {
+
+        }
+        public displayInfo() {
+
+        }
+    }
+}
+
+write a java program that ask the user to enter two integers, obtains the numbers from the user, then prints the larger number followed by the words "is larger" if the numbers are equal, print the message " the numbers are equal.
